@@ -533,7 +533,7 @@ ul{
     
 }
 
-@media  (max-width:405px)  {
+@media  (max-width:800px)  {
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
     *{
